@@ -132,6 +132,6 @@ function setup() {
 
   level_screen = new level_completed_class();
 
-  menu_screen_sound.play();  
+  //menu_screen_sound.play();  
 
 } //END OF SETUP
